@@ -1,3 +1,3 @@
 ffos
 ====
-GitHub Rep des Freifunks Osnabrück
+GitHub Repo Freifunks Osnabrück
