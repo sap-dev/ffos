@@ -1,4 +1,1 @@
-{
-	nodes = '6',
-	clients = '3',
-}
+{"nodes": 12,"clients": 1}
